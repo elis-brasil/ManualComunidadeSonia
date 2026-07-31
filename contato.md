@@ -2,7 +2,7 @@
 
 Ficou com alguma dúvida ou quer participar? Fale com a gente!
 
-- **E-mail:** contato@githubforwomen.exemplo
+- **E-mail:** [contato@githubforwomen.exemplo](mailto:contato@githubforwomen.exemplo)
 - **LinkedIn:** linkedin.com/company/github-for-women
 - **Instagram:** @githubforwomen
 
