@@ -26,3 +26,13 @@ escrever nenhuma linha de código de programação.
 
  <br />
  <sub><b>Elis</b></sub> 
+
+  <br />
+ <sub><b>Laura</b></sub> 
+
+  <br />
+ <sub><b>MaLu</b></sub> 
+
+  <br />
+ <sub><b>Rafa</b></sub> 
+
