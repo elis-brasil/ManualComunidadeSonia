@@ -19,3 +19,10 @@ escrever nenhuma linha de código de programação.
 
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
+
+## 6. Desenvolvedoras
+
+ <sub><b>Adrienne</b></sub> 
+
+ <br />
+ <sub><b>Elis</b></sub> 
