@@ -3,7 +3,8 @@
 Ficou com alguma dúvida ou quer participar? Fale com a gente!
 
 - **E-mail:** [contato@githubforwomen.exemplo](mailto:contato@githubforwomen.exemplo)
-- **LinkedIn:** linkedin.com/company/github-for-women
+*   *Tempo médio de resposta: até 48 horas úteis.*
+- **LinkedIn:** [GitHub for Woman](https://linkedin.com/company/github-for-women)
 - **Instagram:** @githubforwomen
 
 > ⚠️ Estes dados são fictícios e servem apenas para a prática do curso.
