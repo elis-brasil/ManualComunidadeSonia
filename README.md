@@ -34,6 +34,6 @@ escrever nenhuma linha de código de programação.
  <sub><b>MaLu</b></sub> 
 
   <br />
- <sub><b>Rafaela</b></sub> 
+ <sub><b>Rafaella</b></sub>
 
  <br />
