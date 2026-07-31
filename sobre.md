@@ -13,12 +13,12 @@ de tecnologia, da engenharia à liderança.
 
 ## Valores
 
-- AProtagonismo
-- Inclusão
-- Colaboração
-- Responsabilidade
-- Transparência
-- Impacto
+- Protagonismo;
+- Inclusão;
+- Colaboração;
+- Responsabilidade;
+- Transparência;
+- Impacto;
 - Evolução Contínua.
 
 ## Quem pode participar
