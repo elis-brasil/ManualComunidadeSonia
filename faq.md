@@ -8,6 +8,10 @@ Não! A comunidade acolhe pessoas de todos os níveis, inclusive quem está come
 
 Temos os dois formatos. Confira a agenda para saber os próximos eventos.
 
+## Quais são os horários dos encontros?
+
+Nossos encontros acontecem semanalmente no formato online para tirar dúvidas e alinhar projetos.
+
 ## Como posso contribuir?
 
 Você pode ajudar organizando eventos, criando conteúdo ou revisando materiais como este
